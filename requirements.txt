@@ -1,0 +1,9 @@
+matplotlib==3.6.2
+numpy==1.23.3
+pandas==1.5.2
+Pillow==10.0.1
+pyecharts==1.9.1
+pysqleet==31.1.3
+statsmodels==0.13.2
+streamlit==1.16.0
+streamlit_echarts==0.4.0
